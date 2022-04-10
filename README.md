@@ -1,16 +1,25 @@
-### Hi there 👋
+### ForeverDdB  ABOUT WHO I AM
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Foreverddb&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Foreverddb)
 
-<!--
-**Foreverddb/Foreverddb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### SOME OF MY PROJECTS
 
-Here are some ideas to get you started:
+[![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Foreverddb&show_icons=true&repo=FuckLegym&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Foreverddb/FuckLegym)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Foreverddb&show_icons=true&repo=ddblog&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Foreverddb/ddblog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Self Introduction
+
+HI! Notice that you may hava been confused with my name **ForeverDdB** there, I'd like to explain that I was interested in **Physics** in my senior high and I prefer **creating softwares** now. In fact, these two are both amazing things which is almost tow of the most beautiful things in the world I think. Anyway, nice to meet all of you in the Github!!!
+
+### Coding Language
+
+* Java
+* Kotlin a bit
+* Python a bit
+* JavaScript
+
+### Learning
+
+- SpringBoot
+- Redis
+- Vue
