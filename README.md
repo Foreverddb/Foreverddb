@@ -3,7 +3,6 @@
 
 #### SOME OF MY PROJECTS
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Foreverddb&show_icons=true&repo=FuckLegym&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Foreverddb/FuckLegym)
 [![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Foreverddb&show_icons=true&repo=ddblog&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Foreverddb/ddblog)
 
 
