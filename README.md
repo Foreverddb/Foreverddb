@@ -3,7 +3,7 @@
 
 #### SOME OF MY PROJECTS
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Foreverddb&show_icons=true&repo=ddblog&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Foreverddb/ddblog)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Foreverddb&show_icons=true&repo=uestc_login&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Foreverddb/uestc_login)
 
 
 ### Self Introduction
