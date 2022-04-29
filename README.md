@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/60093071/165962194-d69d139d-0715-4a20-af6e-b1f9aece6e31.png)
 ### ForeverDdB  ABOUT WHO I AM
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Foreverddb&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Foreverddb)
 
