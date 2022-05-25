@@ -17,16 +17,17 @@ Anyway, nice to meet all of you in the Github!!!
 
 ### Coding Language
 
-* Java
-* Kotlin a bit
-* Python a bit
-* JavaScript
+[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-777BB4?style=flat&logo=python&logoColor=white)](#)
+[![Javascript](https://img.shields.io/badge/-Javascript-ffcc66?style=flat&logo=javascript&logoColor=white)](#)
 
 ### Learning
 
-- SpringBoot
-- Redis
-- Vue
+[![Springboot](https://img.shields.io/badge/-Springboot-00cc00?style=flat&logo=springboot&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/-Redis-ff0000?style=flat&logo=redis&logoColor=white)](#)
+[![Vue](https://img.shields.io/badge/-VueJs-003300?style=flat&logo=vue.js&logoColor=white)](#)
 
 ### My LOGO
 ![logo](https://user-images.githubusercontent.com/60093071/165962194-d69d139d-0715-4a20-af6e-b1f9aece6e31.png)
