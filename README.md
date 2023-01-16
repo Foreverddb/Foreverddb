@@ -21,12 +21,16 @@ Anyway, nice to meet all of you in the Github!!!
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-777BB4?style=flat&logo=python&logoColor=white)](#)
 [![Javascript](https://img.shields.io/badge/-Javascript-ffcc66?style=flat&logo=javascript&logoColor=white)](#)
+[![Typescript](https://img.shields.io/badge/-Typescript-aaccff?style=flat&logo=typescript&logoColor=white)](#)
+
+### Major In
+
+[![Springboot](https://img.shields.io/badge/-Springboot-00cc00?style=flat&logo=springboot&logoColor=white)](#)
+[![Vue](https://img.shields.io/badge/-VueJs-003300?style=flat&logo=vue.js&logoColor=white)](#)
 
 ### Learning
 
-[![Springboot](https://img.shields.io/badge/-Springboot-00cc00?style=flat&logo=springboot&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/-Redis-ff0000?style=flat&logo=redis&logoColor=white)](#)
-[![Vue](https://img.shields.io/badge/-VueJs-003300?style=flat&logo=vue.js&logoColor=white)](#)
 
 ### My LOGO
 ![logo](https://user-images.githubusercontent.com/60093071/165962194-d69d139d-0715-4a20-af6e-b1f9aece6e31.png)
