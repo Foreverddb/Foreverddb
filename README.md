@@ -18,6 +18,12 @@ Also, I love the **Umamusume** which is called **ウマ娘 プリティーダー
 
 Anyway, nice to meet all of you in the Github!!!
 
+### Work Experience
+
+#### Baidu
+
+Worked in Baidu as a front-end engineer from 2023.4 to 2023.9 for the Search Product Development Department of Mobile Environment Group.
+
 ### Coding Language
 
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)](#)
