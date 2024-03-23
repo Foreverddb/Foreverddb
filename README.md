@@ -14,8 +14,6 @@ I'm ForeverDdB form **UESTC** in Chengdu as a student of grade 2021.
 
 HI! Notice that you may hava been confused with my name **ForeverDdB** there, I'd like to explain that I was interested in **Physics** in my senior high and I prefer **creating softwares** now. In fact, these two are both amazing things which are almost two of the most beautiful things in the world I think.
 
-Also, I love the **Umamusume** which is called **ウマ娘 プリティーダービー** in Janpanese or Pretty Derby in English. I'd love to meet someone who loves it too.
-
 Anyway, nice to meet all of you in the Github!!!
 
 ### Work Experience
